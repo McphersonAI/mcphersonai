@@ -38,6 +38,6 @@ My background in restaurant leadership and operations management shapes the way 
 I’m always open to connecting with operators, builders, and teams working in AI, automation, restaurant operations, and applied business systems.
 
 - **Website:** https://mcphersonai.com
-- **LinkedIn:** https://www.linkedin.com/in/blake-mcpherson-763216206
+  * **LinkedIn:** [Blake McPherson](https://www.linkedin.com/in/blake-mcpherson-763216206)
 
 Feel free to connect, explore the projects here on GitHub, or reach out if you’re interested in practical AI systems for real operational environments.
