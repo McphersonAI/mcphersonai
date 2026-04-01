@@ -4,21 +4,27 @@ Founder of **McPherson AI**, building AI-powered operating systems for QSR manag
 
 With 16 years of experience in QSR operations, I’ve spent my career working inside high-volume environments where labor control, food cost discipline, execution consistency, and speed matter every day. That experience now drives my work in applied AI: building practical systems designed to solve real operational problems for restaurant teams.
 
+## Tech + Tools
+- Python
+- Docker
+- GitHub
+- AI Agents
+- OpenClaw
+- Claude
+- DigitalOcean
+- VPS Deployment
+- Tailscale
+- Fail2Ban
+- Automation Systems
+- CompTIA Tech+
+  
 ## What I’m Building
 At McPherson AI, I develop operator-first tools focused on improving visibility, decision-making, and performance in restaurant operations. My work includes AI-assisted systems for labor monitoring, food cost diagnostics, daily operational oversight, and automation workflows that help managers identify problems earlier and act faster.
 
 ## Current Focus
 I am currently building and publishing practical AI tools for QSR operators, with an emphasis on systems that are useful in real business environments, not just in theory. My goal is to create technology that helps operators reduce waste, improve consistency, and strengthen store-level performance.
 
-## Tech + Tools
-- Python
-- Docker
-- AI Agents
-- Automation Systems
-- GitHub
-- OpenClaw
-- Claude
-- CompTIA Tech+
+
 
 ## Selected Projects
 - **QSR Labor Leak Auditor** — An AI-assisted labor control tool built to help operators detect labor drift, clock padding, and scheduling inefficiencies before payroll closes.
